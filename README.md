@@ -20,7 +20,7 @@ Options:
 
 有可能存在漏洞接口但上传不成功的情况，可添加任意用户cookie进行后台上传
 
-![image](https://github.com/Pizz33/seeyon_saveExcel/assets/88339946/922f2e00-cb12-4c8f-bb2b-af46154780d3)
+![image](https://github.com/Pizz33/seeyon_saveExcel/assets/88339946/244ffc51-d980-4c83-bcdd-f773ba5e4cbb)
 
 ![image](https://github.com/Pizz33/seeyon_saveExcel/assets/88339946/eed48758-2c5c-4b17-9c5b-944561862d0a)
 
